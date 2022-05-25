@@ -7,7 +7,7 @@ Jupyter notebook:
 - Plotting
 
 ## Why:
-This code was prepared for this article: 
+This code was prepared for this article: https://medium.com/@axegggl/newtons-method-for-optimization-in-python-11ce261fcf98
 
 -------------------------------------------------------------------------------
 
